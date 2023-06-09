@@ -110,15 +110,19 @@ or summarizing key points from a long article.
 
 ### Contribution Guidelines
 
-We're excited about your interest in this project and warmly welcome contributions. Before you contribute, please review our contribution guidelines:
+We're thrilled you're considering contributing to MoeenAI! Your valuable input can help us improve this software and create an even better user experience.
+We've outlined a few guidelines to streamline the contribution process and maintain the project's quality:
 
-- Fork the project
-- Create your feature branch (`git checkout -b feature/AmazingFeature`)
-- Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-- Push to the branch (`git push origin feature/AmazingFeature`)
-- Open a pull request
+1. **Fork the project:** Make a copy of the project into your own GitHub account by using the "Fork" button at the top of the project page.
+2. **Create your feature branch:** Use the command `git checkout -b feature/YourFeatureName` to create a new branch for your feature.
+3. **Make your changes:** Modify the code on your branch to incorporate your new feature. Make sure to adhere to our coding style guidelines andthoroughly test your changes.
+4. **Commit your changes:** Use the command `git commit -m 'Add YourFeatureName'` to save your changes.
+5. **Push to the branch:** Use the command `git push origin feature/YourFeatureName` to push your committed changes to your GitHub fork.
+6. **Open a pull request:** Navigate back to your fork on GitHub and press the "New pull request" button. Fill out the provided template with as much information as possible to describe your changes.
 
-For more details on code of conduct and the process for submitting pull requests to us, refer to the CONTRIBUTING.md file.
+Before you start, please read our detailed [Contribution Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+Please note that this project is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ### Troubleshooting and FAQs
 
