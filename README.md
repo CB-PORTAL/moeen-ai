@@ -35,12 +35,16 @@ but also the look and functionality of your Smart Cursor.
 
 ### Prerequisites and Dependencies
 
-Before getting started with MoeenAI, ensure you have Python 3.8 (or later) and pip installed. MoeenAI also depends on a number of Python libraries for its functionality. You will need to install:
+Before getting started with MoeenAI, ensure you have Python 3.11 (or later) and pip installed. MoeenAI also depends on a number of Python libraries for its functionality. You will need to install:
 
 - `tensorflow`
 - `numpy`
 - `pandas`
 - `scikit-learn`
+- `pytorch`
+- `pyqt5`
+- `keras`
+- `opencv`
 
 Please refer to the `requirements.txt` file for the complete list of dependencies.
 
