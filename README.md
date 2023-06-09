@@ -5,7 +5,7 @@ Get ready to reimagine the way you interact with your computer!
 Meet MoeenAI - an innovative, game-changing tech companion that takes digital assistance to the next level.
 It's more than just a virtual assistant; it's a productivity powerhouse embedded right within your desktop computer, 
 leveraging sophisticated AI techniques to communicate, learn, and adapt to your tasks. Say goodbye to
-traditional virtual assistants and say hello to 100 times the efficiency at just a tenth of the cost with AI Computing.
+traditional virtual assistants and say hello to 100 times the efficiency at just a tenth of the cost through AI Computing.
 
 ### Overview
 
