@@ -33,19 +33,57 @@ The Command Center integrates and elevates the traditional command terminal expe
 * **Account Settings & Customizations (Account Settings):** MoeenAI is all about personalization. Here, you can customize not only your account settings
 but also the look and functionality of your Smart Cursor.
 
-#### Setup Guide
+### Prerequisites and Dependencies
 
-Get started with MoeenAI in a few easy steps. All you need is Python 3.8 (or later), pip, and a clone of this repository on your local machine. Navigate to
+Before getting started with MoeenAI, ensure you have Python 3.8 (or later) and pip installed. MoeenAI also depends on a number of Python libraries for its functionality. You will need to install:
+
+- `tensorflow`
+- `numpy`
+- `pandas`
+- `scikit-learn`
+
+Please refer to the `requirements.txt` file for the complete list of dependencies.
+
+### Setup Guide
+
+Get started with MoeenAI in a few easy steps. Clone this repository to your local machine. Navigate to
 the project directory and install the necessary packages with pip.
 
-#### How to Use MoeenAI
+### Usage Examples
 
 Using MoeenAI is as simple as opening a chat window. Navigate to the project directory, run the main script, and start assigning tasks to the
 Smart Cursor via the chat interface. If MoeenAI needs to learn more about a particular task, it may suggest activating the Training Scapes mode.
 
-We're excited about your interest in this project and warmly welcome contributions. Check out our roadmap for proposed features and known issues
-for future releases.
+[Add screenshots, code snippets, or video links here]
+
+### Contribution Guidelines
+
+We're excited about your interest in this project and warmly welcome contributions. Before you contribute, please review our contribution guidelines:
+
+- Fork the project
+- Create your feature branch (`git checkout -b feature/AmazingFeature`)
+- Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the branch (`git push origin feature/AmazingFeature`)
+- Open a pull request
+
+For more details on code of conduct and the process for submitting pull requests to us, refer to the CONTRIBUTING.md file.
+
+### Troubleshooting and FAQs
+
+[Include a section here about common issues that users may face when setting up or using MoeenAI]
+
+### Changelog
+
+Stay updated with the changes to MoeenAI over time. Visit our [Changelog](LINK_TO_CHANGELOG.md) for a comprehensive history of updates and improvements.
+
+### License
 
 This project is licensed under the MIT License. For more details, refer to the LICENSE.md file.
+
+### Contact
+
+Devon Williams - careybrands@gmail.com
+
+Project Link: https://github.com/xd3v0nx/moeen_ai
 
 Jump aboard the MoeenAI journey. Together, let's redefine the digital experience and shape a smarter future!
