@@ -1,0 +1,8 @@
+tensorflow/
+numpy/
+pandas/
+scikit-learn/
+pytorch/
+pyqt5/
+keras/
+opencv/
