@@ -21,21 +21,22 @@ interactive, and customizable learning spaces for the AI's smart cursor. They se
 your tasks and workflows better.
 
 * **AI-Powered Intelligent Smart Cursor (Smart Cursor):** This isn't your ordinary cursor. MoeenAI's Smart Cursor anticipates your
-actions and automates tasks based on your commands. Operating within the Training Scapes, it learns your workflows to deliver a tailored
+actions and automates tasks based on your commands. Operating within the Training Environment, it learns your workflows to deliver a tailored
 and efficient user experience.
 
 * **Interactive Chat Interface (Chat Interface):** Chatting with MoeenAI is a breeze, thanks to its natural language processing capabilities.
-Assign tasks, have detailed project discussions, or ask questions directly to the AI in the Training Scapes.
+Assign tasks, have detailed project discussions, or ask questions directly to your AI-Powered Smart Cursor who is, in fact, actually MoeenAI.
 
 * **Meta Know Command Center (Command Center):** This is your control center. A hub for managing your machine learning models and automated workflows.
-The Command Center integrates and elevates the traditional command terminal experience into something truly next-gen.
+The Command Center integrates and elevates the traditional command terminal experience into something truly from the future.
 
 * **Account Settings & Customizations (Account Settings):** MoeenAI is all about personalization. Here, you can customize not only your account settings
 but also the look and functionality of your Smart Cursor.
 
 ### Prerequisites and Dependencies
 
-Before getting started with MoeenAI, ensure you have Python 3.11 (or later) and pip installed. MoeenAI also depends on a number of Python libraries for its functionality. You will need to install:
+Before getting started with MoeenAI, ensure you have Python 3.11 (or later) and pip installed. MoeenAI also depends on a number of Python libraries
+for its functionality. You will need to install:
 
 - `tensorflow`
 - `numpy`
