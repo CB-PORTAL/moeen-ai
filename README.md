@@ -61,7 +61,7 @@ Please refer to the `requirements.txt` file for the complete list of dependencie
 ### Setup Guide
 
 1. **Clone the repository**
-git clone https://github.com/YourGitHubUsername/MoeenAI.git
+git clone https://github.com/xd3v0nx/Moeen_AI.git
 
 2. **Navigate to the project directory**
 cd MoeenAI
