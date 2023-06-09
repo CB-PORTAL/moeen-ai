@@ -1,6 +1,6 @@
 ## MoeenAI: Transforming the Digital Landscape with Deep Learning and Superior Workflow Automation
 
-Get ready to reimagine the way you interact with your devices!
+Get ready to reimagine the way you interact with your computer!
 
 Meet MoeenAI - an innovative, game-changing tech companion that takes digital assistance to the next level.
 It's more than just a virtual assistant; it's a productivity powerhouse embedded right within your desktop computer, 
