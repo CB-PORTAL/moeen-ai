@@ -132,31 +132,31 @@ If you encounter issues while setting up or using MoeenAI, you may find solution
 
 ### Q1: How do I install MoeenAI?
 
-_Your detailed answer here_
+https://github.com/xd3v0nx/moeen_ai/blob/main/README.md#setup-guide 
 
 ### Q2: I'm having trouble setting up MoeenAI, what should I do?
 
-_Your detailed answer here_
+https://github.com/xd3v0nx/moeen_ai/blob/main/README.md#setup-guide
 
 ### Q3: What are the system requirements for MoeenAI?
 
-_Your detailed answer here_
+https://github.com/xd3v0nx/moeen_ai/blob/main/requirements.txt
 
 ## Common Issues and Solutions
 
 ### Issue 1: MoeenAI fails to launch
 
-_Your detailed solution here_
+This issue could be due to a variety of factors such as an outdated software version, incompatible system specifications, or issues with your device drivers. First, ensure you're running the latest version of MoeenAI. If the issue persists, verify that your system meets the minimum requirements for running MoeenAI. Updating your device drivers might also solve the problem. If all else fails, reinstall MoeenAI and try launching again.
 
 ### Issue 2: MoeenAI crashes during operation
 
-_Your detailed solution here_
+If MoeenAI is crashing in the middle of operations, it could be due to insufficient system resources. Try closing other high-resource-consuming applications while running MoeenAI. If the issue persists, it could be a software bug – please make sure you have the latest version of MoeenAI installed. If the problem still remains, contact our support team with details about what you were doing when the crash occurred, and we'll look into it.
 
 ### Issue 3: MoeenAI's premium features are not functioning as expected
 
-_Your detailed solution here_
+If you're facing problems with the premium features of MoeenAI, first, ensure that your subscription is active and that you're logged into the correct account. Some features may also have specific system requirements, so make sure your system meets these. If you're still facing issues, it could be a bug – in that case, reach out to our support team with a detailed description of the issue and we'll get back to you as soon as possible.
 
-If you encounter a problem not covered in this guide, please contact our support team at [INSERT SUPPORT EMAIL] for further assistance.
+If you encounter a problem not covered in this guide, please contact our support team at careybrands@gmail.com for further assistance.
 
 ### Changelog
 
