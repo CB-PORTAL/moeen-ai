@@ -1,42 +1,45 @@
 # MoeenAI Contributor Covenant Code of Conduct
 
-## Our Pledge
+## Our Commitment
 
-In the shared objective of revolutionizing the digital landscape and fostering an innovative and inclusive community, we, as contributors and maintainers, pledge to ensure participation in our project is a respectful and enriching experience for everyone. We commit to maintaining a welcoming environment, regardless of personal characteristics such as age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, at MoeenAI, are wholeheartedly committed to revolutionizing the digital landscape and fostering an innovative, respectful, and inclusive community. Our objective is to ensure participation in our project not only enriches the technological landscape but also upholds human dignity and respect. We, as contributors and maintainers, pledge to ensure a welcoming environment for everyone, irrespective of their personal characteristics.
 
 ## Our Standards
 
-Behavior that nurtures a positive environment includes:
+We aim to nurture a culture where:
 
-- Encouraging the use of inclusive and welcoming language
-- Respecting differing viewpoints and experiences
-- Graciously accepting constructive feedback
-- Prioritizing the community's best interests
-- Displaying empathy towards fellow community members
+- Inclusive and welcoming language is second nature.
+- Differing viewpoints and experiences are respected.
+- Constructive feedback is graciously accepted.
+- The community's best interests are prioritized.
+- Empathy and mutual respect define interactions between community members.
 
-Unacceptable behavior by participants includes:
+Unacceptable behavior includes:
 
-- Use of sexualized language or imagery, and unwelcome sexual attention or advances
-- Trolling, insulting or derogatory comments, personal or political attacks
-- Public or private harassment
-- Disclosing others' private information, such as physical or electronic addresses, without clear consent
-- Conduct which could reasonably be considered inappropriate in a professional setting
+- Use of sexualized language or imagery and unwelcome sexual attention or advances.
+- Trolling, insulting or derogatory comments, personal or political attacks.
+- Public or private harassment.
+- Disclosing others' private information without clear consent.
+- Conduct which could reasonably be considered inappropriate in a professional setting.
 
 ## Our Responsibilities
 
-As stewards of the MoeenAI project, maintainers are responsible for clarifying the standards of acceptable behavior. They are expected to take appropriate and equitable action in response to any instances of unacceptable behavior.
+As the stewards of the MoeenAI project, we are committed to maintaining an environment where innovative minds can thrive. Our responsibilities include:
 
-Maintainers hold the right to:
+- Clarifying the standards of acceptable behavior.
+- Taking appropriate and equitable actions in response to any instances of unacceptable behavior.
 
-- Remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that do not align with this Code of Conduct
-- Ban temporarily or permanently any contributor for behaviors they deem inappropriate, threatening, offensive, or harmful.
+We reserve the right to:
+
+- Remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions not aligned with this Code of Conduct.
+- Ban temporarily or permanently any contributor for behaviors deemed inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies within all project spaces and when an individual is publicly representing MoeenAI or its community. Examples of representation include using an official project email address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation parameters may be further defined and clarified by project maintainers.
+Our Code of Conduct is not confined to any one space. It applies universally whenever an individual represents MoeenAI or its community.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the MoeenAI project team at [INSERT YOUR EMAIL]. All complaints will be reviewed, investigated, and result in a response deemed necessary and appropriate to the circumstances.
+To report instances of abusive, harassing, or otherwise unacceptable behavior, please contact the MoeenAI project team at careybrands@gmail.com. We promise to review and investigate all complaints and take actions deemed necessary and appropriate.
 
-Together, let's redefine the future of digital interaction and create an AI-enhanced, superior workflow environment, respectful and inclusive of everyone. Welcome to MoeenAI!
+We stand united in our commitment to redefine the future of digital interaction and create an AI-enhanced, superior workflow environment that is respectful and inclusive. Welcome to MoeenAI - where technology meets empathy.
