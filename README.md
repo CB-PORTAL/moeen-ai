@@ -171,5 +171,3 @@ MoeenAI is distributed under a dual licensing model, catering to both open-sourc
 Devon Williams - careybrands@gmail.com
 
 Project Link: https://github.com/xd3v0nx/moeen_ai
-
-Jump aboard the MoeenAI journey. Together, let's redefine the digital experience and shape a smarter future!
