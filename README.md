@@ -164,7 +164,7 @@ Keep pace with the continuous evolution of MoeenAI. Our Changelog offers a thoro
 
 ### License
 
-This project is licensed under the MIT License. For more details, refer to the LICENSE.md file.
+MoeenAI is distributed under a dual licensing model, catering to both open-source community projects and commercial applications. The core functionalities of the software are licensed under the MIT License, which allows for modification, distribution, and the creation of derivative works. However, our premium features fall under a separate MoeenAI Premium Features License, which requires additional agreements for use. For a comprehensive understanding of these licenses, please refer to the LICENSE.md file.
 
 ### Contact
 
