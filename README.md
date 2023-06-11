@@ -54,7 +54,8 @@ for its functionality. You will need to install:
 - `pytorch`
 - `pyqt5`
 - `keras`
-- `opencv`
+- `opencv'
+- `django'
 
 Please refer to the `requirements.txt` file for the complete list of dependencies.
 
