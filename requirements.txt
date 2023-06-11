@@ -6,3 +6,4 @@ torch==1.7.1
 PyQt5==5.15.2
 Keras==2.4.3
 opencv-python==4.5.1.48
+django==4.2.2
