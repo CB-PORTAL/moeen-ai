@@ -1,1 +1,1 @@
-[Usage Guide](../README.md#usage-guide) 
+[Usage Guide](https://github.com/xd3v0nx/moeen_ai/blob/main/README.md#usage-examples) 
