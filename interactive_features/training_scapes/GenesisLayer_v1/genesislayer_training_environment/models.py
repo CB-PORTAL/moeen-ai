@@ -1,5 +1,5 @@
 from django.db import models
-from django.contrib.auth.models import AbstractUser
+from django.contrib.auth.models import AbstractUser, Group, Permission
 
 # Create your models here.
 
@@ -7,9 +7,10 @@ class User(AbstractUser):
     username = models.CharField(max_length=50, unique=True)
     email = models.EmailField(unique=True)
     is_active = models.BooleanField(default=True)
-    
-    class Meta:
-        related_query_name = 'genesislayer_user'
+
+    # Added fields
+    groups = models.ManyToManyField(Group, blank=True, related_name="%(app_label)s_%(class)s_related")
+    user_permissions = models.ManyToManyField(Permission, blank=True, related_name="%(app_label)s_%(class)s_related")
 
 class AIModel(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
