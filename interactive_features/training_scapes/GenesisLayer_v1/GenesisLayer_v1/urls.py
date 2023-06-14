@@ -16,13 +16,18 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from .views import user_detail, ai_model_detail, create_ai_model, index, submit_feedback
+from . import views
+
+app_name = 'genesislayer_training_environment'  # the name of your app
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('user/<int:user_id>/', user_detail),
-    path('ai_model/<int:ai_model_id>/', ai_model_detail),
-    path('create_ai_model/', create_ai_model),
-    path('index/', index),
-    path('submit_feedback/', submit_feedback),
+    path('', views.index, name='index'),  # URL for the index view
+
+    path('user/<int:user_id>/', views.user_detail, name='user_detail'),  # URL for the user_detail view
+    
+    path('ai_model/<int:ai_model_id>/', views.ai_model_detail, name='ai_model_detail'),  # URL for the ai_model_detail view
+    
+    path('create_ai_model/', views.create_ai_model, name='create_ai_model'),  # URL for the create_ai_model view
+
+    path('submit_feedback/', views.submit_feedback, name='submit_feedback'),  # URL for the submit_feedback view
 ]
