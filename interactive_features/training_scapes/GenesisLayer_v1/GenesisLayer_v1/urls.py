@@ -16,7 +16,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from .views import user_detail, ai_model_detail, create_ai_model, index, submit_feedback
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('user/<int:user_id>/', user_detail),
+    path('ai_model/<int:ai_model_id>/', ai_model_detail),
+    path('create_ai_model/', create_ai_model),
+    path('index/', index),
+    path('submit_feedback/', submit_feedback),
 ]
