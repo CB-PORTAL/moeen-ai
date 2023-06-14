@@ -7,6 +7,9 @@ class User(AbstractUser):
     username = models.CharField(max_length=50, unique=True)
     email = models.EmailField(unique=True)
     is_active = models.BooleanField(default=True)
+    
+    class Meta:
+        related_query_name = 'genesislayer_user'
 
 class AIModel(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
