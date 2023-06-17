@@ -10,7 +10,7 @@
 │   │   └── OverlayComponent
 │   │       ├── TransparencyComponent
 │   │       │   ├── TransparencyLevel [90%]
-│   │       │   └── TransparencyShade ["#7CFB25"] \\ green.
+│   │       │   └── TransparencyShade ["#7CFB25"] // green.
 │   │       └── ControlCenterComponent
 │   │           ├── LearningModeComponent
 │   │           │   ├── OnComponent
