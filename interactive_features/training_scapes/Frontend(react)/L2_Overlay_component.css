@@ -1,0 +1,12 @@
+.overlay {
+    /* Common styles for the overlay here... */
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+
+.overlay.active {
+    /* Styles for the active overlay here... */
+    background-color: rgba(124, 251, 37, 0.9); /* #7CFB25 with 90% opacity */
+}
