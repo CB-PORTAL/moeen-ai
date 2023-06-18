@@ -15,8 +15,12 @@ function SmartExpandableWindowComponent() {
         <div 
             className={`window ${isExpanded ? 'expanded' : 'collapsed'}`} 
             onClick={handleClick}
-        >
-            {/* Include child components here... */}
+        > 
+    {/* OverlayComponent as a child component */}
+            <OverlayComponent />
+
+    // Include other child components here
+
         </div>
     );
 }
