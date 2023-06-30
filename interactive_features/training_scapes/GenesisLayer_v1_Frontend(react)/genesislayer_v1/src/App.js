@@ -1,6 +1,6 @@
 import React from 'react';
-import SmartExpandableWindowComponent from './SmartExpandableWindowComponent';
-import OverlayComponent from './OverlayComponent';
+import SmartExpandableWindowComponent from './L1_SmartExpandableWindow_component/SmartExpandableWindowComponent';
+import OverlayComponent from './L1_SmartExpandableWindow_component/L2_Overlay_component/OverlayComponent';
 
 function App() {
   return (
