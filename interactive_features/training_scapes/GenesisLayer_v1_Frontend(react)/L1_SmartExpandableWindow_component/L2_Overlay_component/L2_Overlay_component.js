@@ -15,7 +15,7 @@ function OverlayComponent() {
             className={`overlay ${isActive ? 'active' : ''}`} 
             onClick={handleClick}
         >
-            {/* Include child components here... */}
+            {/* The overlay becomes visible on click and inactive on another click */}
         </div>
     );
 }
